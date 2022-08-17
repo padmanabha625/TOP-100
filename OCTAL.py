@@ -1,0 +1,1 @@
+print("Octal:",str(oct(int(input("Enter a binary number:"),2)))[2:])
